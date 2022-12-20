@@ -1,3 +1,13 @@
+= Error 404
+
+// links
+:semantic: https://www.w3schools.com/html/html5_semantic_elements.asp
+
+Type of challenge: *learning* +
+Duration: *60 min* +
+Deployment strategy: *Github page* +
+Team challenge: *solo*
+
 
 == Learning objectives
 
@@ -31,3 +41,12 @@ You have to create a new repository called _404-page_ containing the *HTML* and
 * https://www.w3schools.com/css/css3_animations.asp[CSS3 animations]
 * https://daneden.github.io/animate.css/[animate]
 * http://learnlayout.com/position.html[CSS positioning]
+
+
+== Congrats
+
+As you all know, we see errors all the time, so we might as well make them look
+pretty. Plus, a custom _error 404_ page does give an aura of professionalism to
+a website.
+
+image::https://media.giphy.com/media/xTiN0L7EW5trfOvEk0/giphy.gif[]
