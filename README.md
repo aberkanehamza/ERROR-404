@@ -1,49 +1,33 @@
-# Error-404# Error-404
-Error 404
 
-Type of challenge: learning
-Duration: 60 min
-Deployment strategy: Github page
-Team challenge: solo
-Learning objectives
+== Learning objectives
 
 At the end of this challenge you should be able to:
 
-    write semantic HTML
+* write semantic HTML
+* understand CSS positioning
 
-    understand CSS positioning
 
-The mission
+== The mission
 
-You have to create a new repository called 404-page containing the HTML and CSS required for an error 404 page.
-Instructions
+You have to create a new repository called _404-page_ containing the *HTML* and
+*CSS* required for an *error 404* page.
 
-    create the repository
+.Instructions
+* create the repository
+* write an *error 404* page in *HTML* and *CSS*
+* try to use as much {semantic}[semantical HTML] as possible
+* add a *back* button that redirects to your Github profile
+* change the position of your content on the page
+* commit/push
+* deploy on a Github page
 
-    write an error 404 page in HTML and CSS
+=== Optional
 
-    try to use as much semantical HTML as possible
+* add an animation when mousing hover an element
 
-    add a back button that redirects to your Github profile
 
-    change the position of your content on the page
+== Resources
 
-    commit/push
-
-    deploy on a Github page
-
-Optional
-
-    add an animation when mousing hover an element
-
-Resources
-
-    CSS3 animations
-
-    animate
-
-    CSS positioning
-
-Congrats
-
-As you all know, we see errors all the time, so we might as well make them look pretty. Plus, a custom error 404 page does give an aura of professionalism to a website.
+* https://www.w3schools.com/css/css3_animations.asp[CSS3 animations]
+* https://daneden.github.io/animate.css/[animate]
+* http://learnlayout.com/position.html[CSS positioning]
